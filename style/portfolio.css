@@ -7,4 +7,22 @@ body{
 nav{
     display: flex;
 }
-
+nav > ul{
+    display: flex;
+    text-decoration: none;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px ;
+}
+nav a{
+    text-decoration: none;
+}
+/* .text-primary{ */
+    color: FD6E0A;
+}
+.title{
+    color: #181818;
+    font-weight: 450px;
+    font-weight: 800px;
+}
